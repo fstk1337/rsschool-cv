@@ -62,7 +62,26 @@ var number = function(busStops){
 
 ---
 
-### Work Experience
+### Experience
+
+Generally have no production experience as a developer.
+
+Currently participating in educational project https://github.com/saffchen/JRM-Java-Stock-System
+
+The project stack includes:
+
+- Vue.js
+- Bootstrap
+- JQuery Datatables
+- Axios
+- Java
+- Hibernate
+- PostgreSQL
+- Spring Boot
+- SwaggerUI
+- Apache Kafka
+- Docker
+- etc.
 
 ### Education
 
