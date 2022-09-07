@@ -66,7 +66,8 @@ var number = function(busStops){
 
 Generally have no production experience as a developer.
 
-Currently participating in educational project https://github.com/saffchen/JRM-Java-Stock-System
+Currently participating in educational project   
+https://github.com/saffchen/JRM-Java-Stock-System
 
 The project stack includes:
 
@@ -87,17 +88,19 @@ The project stack includes:
 ### Education
 
 #### High school:
-2013, *Belarusian State University*
-**Economist-analyst**, specialist degree
+
+2013, *Belarusian State University*   
+**Economist-analyst**, specialist degree   
 *Minsk, Belarus*
 
+
 #### Courses/trainings:
-2020, *IT-Academy*
-**Java Fundamentals, Java Enterprise Development** courses
+2020, *IT-Academy*   
+**Java Fundamentals, Java Enterprise Development** courses   
 *Brest, Belarus / Online*
 
-2021, *EPAM Systems, Inc.*
-**Java Web Development** training
+2021, *EPAM Systems, Inc.*   
+**Java Web Development** training   
 *Online*
 
 ---
