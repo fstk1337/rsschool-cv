@@ -17,7 +17,7 @@ I am organized and technically dexterous person with wide web development backgr
 
 ---
 
-### Hard Skills
+### Hard Skills:
 
 - HTML, CSS, Javascript basics
 - TCP/IP, HTTP
@@ -83,6 +83,26 @@ The project stack includes:
 - Docker
 - etc.
 
+---
 ### Education
 
+#### High school:
+2013, *Belarusian State University*
+**Economist-analyst**, specialist degree
+*Minsk, Belarus*
+
+#### Courses/trainings:
+2020, *IT-Academy*
+**Java Fundamentals, Java Enterprise Development** courses
+*Brest, Belarus / Online*
+
+2021, *EPAM Systems, Inc.*
+**Java Web Development** training
+*Online*
+
+---
 ### Languages
+
+- Russian (Native)
+- English (Intermediate)
+- Polish (Elementary)
