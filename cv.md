@@ -19,6 +19,20 @@ I am organized and technically dexterous person with wide web development backgr
 
 ### Hard Skills
 
+- HTML, CSS, Javascript basics
+- TCP/IP, HTTP
+- REST API
+- SQL (MySQL, PostgreSQL)
+- Git
+- Java SE 11+
+- Maven
+- JPA/Hibernate
+- Spring framework, Spring Boot
+- Docker basics
+- AWS basics
+
+---
+
 ### Code Examples
 
 ### Work Experience
