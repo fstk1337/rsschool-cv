@@ -1,5 +1,5 @@
 # Vitali Shvaichuk 
-###### Brest, Belarus
+#### Brest, Belarus
 ![my-face](http://fstk1337.com/assets/me.7376bff3.png)
 
 ### Contacts:
@@ -12,6 +12,10 @@
 
 ---
 ### About Me
+
+I am organized and technically dexterous person with wide web development background. I enjoy development process and always intend to build up professional skills. I am interested in building full-stack web applications using modern frameworks.
+
+---
 
 ### Hard Skills
 
